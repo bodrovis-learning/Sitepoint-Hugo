@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genres on Мой новый сайт Hugo</title>
+    <link>http://example.org/ru/genres/</link>
+    <description>Recent content in Genres on Мой новый сайт Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/ru/genres/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

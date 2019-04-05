@@ -1,0 +1,6 @@
+{{ range .Params.genres }}
+  <a href="{{ "/genres/" | relLangURL }}{{ . | urlize }}"
+  class="badge badge-pill badge-primary">
+    {{- . -}}
+  </a>
+{{ end }}

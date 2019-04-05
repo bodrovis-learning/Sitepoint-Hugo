@@ -1,0 +1,16 @@
+{{ $band := .Title | urlize }}
+{{ range .Site.Data}}
+  {{ if eq .band $band }}
+    <section class="my-3">
+      <h2>Discography</h2>
+      <ul class="list-group">
+        {{ range .discography}}
+          <li class="list-group-item">
+            <strong>{{.year}}</strong><br>
+            {{.name}}
+          </li>
+        {{ end }}
+      </ul>
+    </section>
+  {{ end }}
+{{ end }}

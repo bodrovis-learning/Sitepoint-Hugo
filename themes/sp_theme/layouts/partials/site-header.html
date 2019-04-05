@@ -1,0 +1,19 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+    <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Title }}</a>
+
+    {{ if .Site.Menus.main }}
+      <ul class="navbar-nav mr-auto">
+        {{ range .Site.Menus.main }}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ .URL | relLangURL }}" title="{{ .Name }}">
+            {{ .Name }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+
+    {{- partial "i18n-translations.html" . -}}
+  </div>
+</nav>

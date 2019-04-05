@@ -1,0 +1,17 @@
+{
+  "band": "metallica",
+  "discography": [
+    {
+      "year": "1983",
+      "name": "Kill 'Em All"
+    },
+    {
+      "year": "1984",
+      "name": "Ride the Lightning"
+    },
+    {
+      "year": "1986",
+      "name": "Master of Puppets"
+    }
+  ]
+}

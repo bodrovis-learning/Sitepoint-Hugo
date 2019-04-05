@@ -1,0 +1,8 @@
+name = "Sitepoint Demo Theme"
+license = "MIT"
+description = "Demo theme for Hugo article on Sitepoint"
+tags = ["website", "demo"]
+
+[author]
+  name = "Ilya Bodrov"
+  homepage = "http://bodrovis.tech"

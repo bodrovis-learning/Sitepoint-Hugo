@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Mar 2019 19:33:53 +0300</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nirvana</title>
+      <link>http://example.org/posts/bands/nirvana/</link>
+      <pubDate>Fri, 29 Mar 2019 19:33:53 +0300</pubDate>
+      
+      <guid>http://example.org/posts/bands/nirvana/</guid>
+      <description>nirvana</description>
+    </item>
+    
+    <item>
+      <title>Metallica</title>
+      <link>http://example.org/posts/bands/metallica/</link>
+      <pubDate>Fri, 29 Mar 2019 17:50:57 +0300</pubDate>
+      
+      <guid>http://example.org/posts/bands/metallica/</guid>
+      <description>Metallica is an American heavy metal band. The band was formed in 1981 in Los Angeles, California by drummer Lars Ulrich and vocalist/guitarist James Hetfield, and has been based in San Francisco, California for most of its career. The group&amp;rsquo;s fast tempos, instrumentals and aggressive musicianship made them one of the founding &amp;ldquo;big four&amp;rdquo; bands of thrash metal, alongside Megadeth, Anthrax and Slayer. Metallica&amp;rsquo;s current lineup comprises founding members Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo.</description>
+    </item>
+    
+  </channel>
+</rss>

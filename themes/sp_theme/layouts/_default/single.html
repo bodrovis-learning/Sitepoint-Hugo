@@ -1,0 +1,13 @@
+{{ define "h1" }}{{- .Title -}}{{ end }}
+
+{{ define "main" }}
+  {{- partial "genres.html" . -}}
+  
+  {{- partial "discography.html" . -}}
+
+  <p>{{- .Content -}}</p>
+
+  {{- partial "i18n-list.html" . -}}
+
+  {{ template "_internal/disqus.html" . }}
+{{ end }}

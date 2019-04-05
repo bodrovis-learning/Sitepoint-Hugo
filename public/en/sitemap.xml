@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/posts/bands/nirvana/</loc>
+    <lastmod>2019-03-29T19:33:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/bands/metallica/</loc>
+    <lastmod>2019-03-29T17:50:57+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/bands/</loc>
+    <lastmod>2019-03-29T19:33:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/genres/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/ru/genres/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/genres/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/genres/heavy-metal/</loc>
+    <lastmod>2019-03-29T19:33:53+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2019-03-29T19:33:53+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/genres/thrash-metal/</loc>
+    <lastmod>2019-03-29T17:50:57+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

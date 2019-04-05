@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/ru/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/ru/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/ru/genres/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/genres/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/ru/genres/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/ru/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/ru/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/ru/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/ru/"
+                />
+  </url>
+  
+</urlset>

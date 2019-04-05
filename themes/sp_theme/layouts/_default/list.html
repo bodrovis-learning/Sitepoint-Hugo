@@ -1,0 +1,12 @@
+{{ define "h1" }}{{- .Title -}}{{ end }}
+
+{{ define "main" }}
+  {{- .Content -}}
+  {{ range .Paginator.Pages }}
+    {{- partial "summary.html" . -}}
+  {{ end }}
+
+  {{- partial "i18n-list.html" . -}}
+  
+  {{- template "_internal/pagination.html" . -}}
+{{ end }}

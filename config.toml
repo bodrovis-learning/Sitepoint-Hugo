@@ -1,0 +1,30 @@
+baseURL = "http://example.org/"
+title = "My New Hugo Site"
+theme = "sp_theme"
+DefaultContentLanguage = "en"
+disqusShortname = "disqus_hOxF05PWBh"
+
+[taxonomies]
+  category = "categories"
+  genres = "genres"
+  tag = "tags"
+
+[languages]
+  [languages.en]
+    title = "My New Hugo Site"
+    contentDir = "content/en"
+    LanguageName = "English"
+    inLanguage = "in English"
+  [languages.ru]
+    title = "Мой новый сайт Hugo"
+    contentDir = "content/ru"
+    LanguageName = "Русский"
+    inLanguage = "на русском"
+
+  [[languages.en.menu.main]]
+    name = "Bands archive"
+    url = "/bands"
+
+  [[languages.ru.menu.main]]
+    name = "Архив групп"
+    url = "/bands"

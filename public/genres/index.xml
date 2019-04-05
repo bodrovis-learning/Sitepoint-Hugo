@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genres on My New Hugo Site</title>
+    <link>http://example.org/genres/</link>
+    <description>Recent content in Genres on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/genres/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Heavy Metal</title>
+      <link>http://example.org/genres/heavy-metal/</link>
+      <pubDate>Fri, 29 Mar 2019 19:33:53 +0300</pubDate>
+      
+      <guid>http://example.org/genres/heavy-metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thrash Metal</title>
+      <link>http://example.org/genres/thrash-metal/</link>
+      <pubDate>Fri, 29 Mar 2019 17:50:57 +0300</pubDate>
+      
+      <guid>http://example.org/genres/thrash-metal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
